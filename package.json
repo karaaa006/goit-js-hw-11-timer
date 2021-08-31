@@ -1,5 +1,5 @@
 {
-  "name": "webpack_bundle",
+  "name": "countdown_timer",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/karaaa006/webpack-4-template"
+    "url": "git+https://github.com/karaaa006/goit-js-hw-11-timer"
   },
   "keywords": [],
-  "author": "",
+  "author": "Oleh Karaulnyi",
   "license": "ISC",
-  "homepage": "https://karaaa006.github.io/webpack-4-template/",
+  "homepage": "https://karaaa006.github.io/goit-js-hw-11-timer/",
   "devDependencies": {
     "@babel/core": "^7.12.8",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
