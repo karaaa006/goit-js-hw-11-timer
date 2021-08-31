@@ -7,10 +7,12 @@ JS:
 ```js
 import "./timer.js";
 
-new CountdownTimer({
+const timer = new CountdownTimer({
   selector: "#timer-1",
   targetDate: new Date("Jul 17, 2021"),
 });
+
+timer.start();
 ```
 
 HTML:
