@@ -1,6 +1,8 @@
 # Countdown Timer
 
-## Для использования таймера импортируйте файл timer.js в свой проект и пропишите разметку
+### Для использования таймера пропишите разметку, импортируйте файл timer.js и style.css в свой проект
+
+JS:
 
 ```js
 import "./timer.js";
@@ -10,6 +12,8 @@ new CountdownTimer({
   targetDate: new Date("Jul 17, 2021"),
 });
 ```
+
+HTML:
 
 ```html
 <div class="timer" id="timer-1">
